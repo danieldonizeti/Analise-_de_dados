@@ -13,14 +13,9 @@
 ## 📌 Sumário
 
 - [Sobre o projeto](#-sobre-o-projeto)  
-- [Tecnologias](#-tecnologias)  
-- [Estrutura do repositório](#-estrutura-do-repositório)  
-- [Como executar (local)](#-como-executar-local)  
-- [Descrição dos scripts](#-descrição-dos-scripts)  
+- [Tecnologias](#-tecnologias)
 - [Dashboard (Power BI)](#-dashboard-power-bi)  
-- [Melhorias futuras](#-melhorias-futuras)  
-- [Licença](#-licença)  
-- [Autor](#-autor)
+
 
 ---
 
