@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+/.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.venv/
+env/
+ENV/
+*.env
+
+*.tmp
+*.bak
+*.swp
+
+# Power BI
+*.pbix.lock
+
+
+# Sistema
+.DS_Store
+Thumbs.db
